@@ -1,0 +1,5 @@
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/entities/Task.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/repositories/TaskRepository.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/controllers/TaskController.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/services/TaskService.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/SpringappApplication.java

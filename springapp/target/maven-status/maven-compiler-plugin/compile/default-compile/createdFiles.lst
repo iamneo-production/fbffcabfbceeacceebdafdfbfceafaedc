@@ -1,0 +1,5 @@
+com/examly/springapp/entities/Task.class
+com/examly/springapp/repositories/TaskRepository.class
+com/examly/springapp/services/TaskService.class
+com/examly/springapp/SpringappApplication.class
+com/examly/springapp/controllers/TaskController.class
